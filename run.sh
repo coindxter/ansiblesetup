@@ -1,0 +1,1 @@
+ansible-playbook ubuntu2204-playbook-cis_level1_workstation.yml --ask-become-pass
